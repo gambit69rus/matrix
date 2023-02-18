@@ -1,0 +1,15 @@
+/Users/antonsosnin/Desktop/matrix/bin/Debug/net6.0/matrix
+/Users/antonsosnin/Desktop/matrix/bin/Debug/net6.0/matrix.deps.json
+/Users/antonsosnin/Desktop/matrix/bin/Debug/net6.0/matrix.runtimeconfig.json
+/Users/antonsosnin/Desktop/matrix/bin/Debug/net6.0/matrix.dll
+/Users/antonsosnin/Desktop/matrix/bin/Debug/net6.0/matrix.pdb
+/Users/antonsosnin/Desktop/matrix/obj/Debug/net6.0/matrix.csproj.AssemblyReference.cache
+/Users/antonsosnin/Desktop/matrix/obj/Debug/net6.0/matrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonsosnin/Desktop/matrix/obj/Debug/net6.0/matrix.AssemblyInfoInputs.cache
+/Users/antonsosnin/Desktop/matrix/obj/Debug/net6.0/matrix.AssemblyInfo.cs
+/Users/antonsosnin/Desktop/matrix/obj/Debug/net6.0/matrix.csproj.CoreCompileInputs.cache
+/Users/antonsosnin/Desktop/matrix/obj/Debug/net6.0/matrix.dll
+/Users/antonsosnin/Desktop/matrix/obj/Debug/net6.0/refint/matrix.dll
+/Users/antonsosnin/Desktop/matrix/obj/Debug/net6.0/matrix.pdb
+/Users/antonsosnin/Desktop/matrix/obj/Debug/net6.0/matrix.genruntimeconfig.cache
+/Users/antonsosnin/Desktop/matrix/obj/Debug/net6.0/ref/matrix.dll
